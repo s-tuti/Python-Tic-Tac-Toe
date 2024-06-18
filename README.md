@@ -1,6 +1,6 @@
 # Tic-Tac-Toe-Game-In-Python
 
-Don't Forget to <a href="https://www.youtube.com/channel/UCV8auqEr_jx606MqyeyIPpw?sub_confirmation=1">Subscribe</a> My Channel , like video and share to your friends. If you want to learn any new things then comment over that. We will make new video on that As soon As Possible.
+The Tic-Tac-Toe Project is a simple implementation of the classic two-player game, Tic-Tac-Toe, using Python. The project is designed to provide an interactive, console-based gaming experience where two players can take turns to place their marks (X and O) on a 3x3 grid. The game continues until one player wins by placing three of their marks in a horizontal, vertical, or diagonal row, or until all cells are filled resulting in a draw.
 
 Tic Tac Toe game
 
